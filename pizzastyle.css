@@ -1,0 +1,57 @@
+body{
+    background-color: blanchedalmond;
+    }
+
+h1{text-align: center;
+    padding-bottom:10px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 180px;
+    background-color: cornsilk;
+    text-align: left;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  h2{
+    font-size: 15px;
+  }
+  
+  div.desc {
+    padding: 3px;
+    text-align: left;
+     }
+
+li {
+    
+    border: 1px solid black;
+    width: calc(100%/2);
+    padding: 10px;
+    text-align: center;
+    list-style-type: none;
+    background-color: cornsilk}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: crimson;
+    text-decoration-line: none;}
+p{ 
+    padding-left: 1px; 
+}
+
